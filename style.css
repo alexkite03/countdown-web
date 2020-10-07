@@ -1,0 +1,43 @@
+body{
+    background-color: #48dbfb;
+    background-image: linear-gradient(315deg, #48dbfb 0%, #d3d3d3 74%);    
+}
+
+h1{
+    font-size: 10rem;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: white;
+}
+
+.container{
+    min-height: 100vh;
+}
+.mensaje{
+    color: black;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+
+.contador{
+    justify-content: center;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.contador_sec{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    padding: 4rem;
+    font-size: 3rem;
+    line-height: 0.5;
+    color: white;
+    margin: 1rem 2rem;
+}
+.contador_sec span{
+    font-size: 1.5rem;
+    color: black;
+}
+
+
+
