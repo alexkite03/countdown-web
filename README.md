@@ -1,3 +1,3 @@
-# countdown-web
+# Description
 
-Simple countdown web that show the time remaining to 2021
+Simple **countdown** web that show the time remaining to 2021
